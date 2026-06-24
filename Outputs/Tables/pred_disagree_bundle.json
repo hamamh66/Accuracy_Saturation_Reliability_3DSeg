@@ -1,0 +1,26 @@
+{
+  "summary": [
+    {
+      "method": "ensemble",
+      "auroc": 0.795,
+      "auroc_sd": 0.0457,
+      "ece": 0.0753,
+      "risk_cov_auc": 0.062
+    },
+    {
+      "method": "entropy",
+      "auroc": 0.743,
+      "auroc_sd": 0.0504,
+      "ece": 0.156,
+      "risk_cov_auc": 0.0983
+    },
+    {
+      "method": "fresnel_disagree",
+      "auroc": 0.6442,
+      "auroc_sd": 0.0422,
+      "ece": 0.156,
+      "risk_cov_auc": 0.0983
+    }
+  ],
+  "pval_vs_entropy": 2.2737367544323206e-12
+}

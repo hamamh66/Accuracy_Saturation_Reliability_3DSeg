@@ -1,0 +1,5 @@
+arch,klass,dice_mean,seed_std,n_seeds
+baseline,mass,0.1446,0.0155,5
+fresnel,mass,0.1597,0.0412,5
+baseline,pancreas,0.6525,0.014,5
+fresnel,pancreas,0.639,0.0165,5

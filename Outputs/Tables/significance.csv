@@ -1,0 +1,3 @@
+klass,arch,mean_delta,median_arm,median_base,win,n,p_value,holm_p,sig
+pancreas,fresnel,-0.0135,0.67,0.682,15,42,0.0347,0.0694,False
+mass,fresnel,0.0151,0.074,0.083,25,42,0.2529,0.2529,False

@@ -1,0 +1,4 @@
+method,auroc,auroc_sd,ece,risk_cov_auc
+ensemble,0.795,0.0457,0.0753,0.062
+entropy,0.743,0.0504,0.156,0.0983
+fresnel_disagree,0.6442,0.0422,0.156,0.0983

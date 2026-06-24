@@ -1,0 +1,11 @@
+klass,arch,seed,delta
+pancreas,fresnel,0,-0.0303
+pancreas,fresnel,1,-0.0286
+pancreas,fresnel,2,-0.0093
+pancreas,fresnel,3,-0.0047
+pancreas,fresnel,4,0.0052
+mass,fresnel,0,0.0687
+mass,fresnel,1,0.011
+mass,fresnel,2,0.0222
+mass,fresnel,3,-0.0284
+mass,fresnel,4,0.0021

@@ -1,0 +1,8 @@
+corruption,severity,arch,dice_mean
+noise,0.0,baseline,0.4210537401538113
+noise,0.05,baseline,0.4212662085123325
+noise,0.1,baseline,0.4217147430832675
+noise,0.2,baseline,0.4071250345537546
+blur,0.0,baseline,0.4210537401538113
+blur,0.5,baseline,0.40245983717519335
+blur,1.0,baseline,0.29596060850616607

@@ -1,0 +1,5 @@
+arch,meanFG_dice,meanFG_hd95
+baseline,0.4058,5.099
+edgeatt,0.3964,4.5826
+fresnel,0.4034,7.2646
+sea,0.4092,5.848

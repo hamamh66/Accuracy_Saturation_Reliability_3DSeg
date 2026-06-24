@@ -1,0 +1,8 @@
+corruption,severity,arch,dice_mean
+noise,0.0,fresnel,0.4171445002015632
+noise,0.05,fresnel,0.41703357370818933
+noise,0.1,fresnel,0.4195388520473873
+noise,0.2,fresnel,0.4107584876090061
+blur,0.0,fresnel,0.4171445002015632
+blur,0.5,fresnel,0.38525594574136546
+blur,1.0,fresnel,0.2839070203981367
