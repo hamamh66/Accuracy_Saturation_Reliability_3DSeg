@@ -14,6 +14,7 @@ Two tasks from the Medical Segmentation Decathlon are used: **Task07 Pancreas** 
 | `Accuracy_Saturation_Pancreas_Hippocampus.ipynb` | Complete pipeline for Google Colab: data download and caching, Stage-1 training and statistics, Stage-2 estimators and statistics, qualitative panels, hippocampus replication. Resumable; every long step prints progress. |
 | `data/pancreas_test_cases.txt` | The fixed held-out pancreas test set (42 case IDs). The notebook checks that its rebuilt split equals this list. |
 | `results/Tables/` | Per-case Dice/HD95 for every task × architecture × seed, Stage-1 summaries and tests, Stage-2 per-case metrics, summaries and tests, and the Fresnel-coherence diagnostic. |
+| `results/Tables/additional/` | Additional reliability analyses: fitted temperatures, temperature-scaled entropy, decomposition of ensemble and MC-dropout entropy into expected entropy and mutual information, per-case voxel metrics, summaries and tests, and case-level reliability (mean uncertainty per case against case Dice). `results/additional_results.json` bundles them. |
 | `results/Figures/` | Figures of the study (framework and estimator overviews, Stage-1 equivalence, Stage-2 estimators, reliability and risk–coverage curves, coherence diagnostic, qualitative panels). |
 | `analysis/` | Scripts that turn the tables into statistics, LaTeX tables and figures. |
 
